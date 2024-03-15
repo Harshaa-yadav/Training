@@ -1,0 +1,4 @@
+This is my first git practise file.
+I updated this file with new line to check merge command..
+again updating file to learn remote changes to local...
+
